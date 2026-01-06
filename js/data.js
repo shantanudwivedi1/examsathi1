@@ -153,8 +153,8 @@ const courseData = {
                         ]
                     },
                     "Unit 2": {
-                        name: "Java Fundamentals",
-                        notesPdf: "assets/pdfs/mca/java/unit1.pdf",
+                        name: "Object Oriented Concepts",
+                        notesPdf: "https://drive.google.com/file/d/14_KpzCWcP8G6xhH-mhqFJjOpypbiPjU0/preview",
                         videos: [
                             {
                                 title: "Java Tutorial for Beginners",
@@ -169,8 +169,8 @@ const courseData = {
                         ]
                     },
                     "Unit 3": {
-                        name: "Java Fundamentals",
-                        notesPdf: "assets/pdfs/mca/java/unit1.pdf",
+                        name: "Exception and File Handling",
+                        notesPdf: "https://drive.google.com/file/d/1TXl5GrJ8EsP6TNDj-CSdAFi1Y9X42aOY/preview",
                         videos: [
                             {
                                 title: "Java Tutorial for Beginners",
@@ -185,7 +185,7 @@ const courseData = {
                         ]
                     },
                     "Unit 4": {
-                        name: "Java Fundamentals",
+                        name: "Multi-Threading and Package Management",
                         notesPdf: "assets/pdfs/mca/java/unit1.pdf",
                         videos: [
                             {
@@ -201,7 +201,7 @@ const courseData = {
                         ]
                     },
                     "Unit 5": {
-                        name: "Java Fundamentals",
+                        name: "Collection Framework",
                         notesPdf: "assets/pdfs/mca/java/unit1.pdf",
                         videos: [
                             {
@@ -224,11 +224,11 @@ const courseData = {
                 fullName: "Web Development",
                 units: {
                     "Unit 1": {
-                        name: "HTML & CSS Basics",
-                        notesPdf: "assets/pdfs/mca/web/unit1.pdf",
+                        name: "HTML",
+                        notesPdf: "https://drive.google.com/file/d/18g2HsyecZHDV2tnWKM3RWZVQMcgC4tjd/preview",
                         videos: [
                             {
-                                title: "HTML & CSS Crash Course",
+                                title: "HTML & CSS",
                                 videoId: "UB1O30fR-EE"
                             }
                         ],
